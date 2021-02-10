@@ -1,6 +1,6 @@
 # big_four
 
-## Prediciting Electricity Usage
+## Prediciting Public Company Financial Statement Auditor
 
 *Using supervised learning classification techniques, created model that predicts if a company will be audited by the Big Four or another accounting firm*
 
